@@ -33,5 +33,5 @@ console.log(
 console.log('#Case 3');
 console.log(
   'Buatlah minimal 1 halaman untuk memperkenalkan sebuah UMKM. Desain bebas.Buatlah semenarik mungkin. Boleh dibuat sebagai website ataupun mobile app(bebas pilih). Jika diperlukan, diperbolehkan untuk membuat backend sederhana.\n',
-  'Berikut merupakan website yang berhasil dibuat menggunakan next.js dan tailwind, https://case3.aristocaesar.my.id'
+  'Berikut merupakan website yang berhasil dibuat menggunakan next.js dan tailwind, https://qbit.aristocaesar.my.id'
 );
